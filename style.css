@@ -13,4 +13,5 @@ margin: 0px;
    background: pink;
    padding-bottom: 80px;
    padding-top: 80px;
+   display: flex;
   }
